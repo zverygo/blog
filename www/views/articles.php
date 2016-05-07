@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>BLOG</h1>
+        <h1><a href="../index.php">BLOG</a></h1>
         <a href="../admin/index.php">Admin panel</a>
         <div>
            <?php foreach($articles as $a): ?>
